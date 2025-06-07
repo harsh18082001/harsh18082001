@@ -24,6 +24,8 @@
 - **Marketing Performance Panel**  
   Real-time KPIs and visualizations built with **React, Node, MySQL, Ant Design** to boost marketing insights.
 
+- **And Many more in total 15-20 projects [6-7 enterprise level, 7-8 mid level]**
+
 🔧 **Tech Stack Highlights:**
 - **Frontend:** ReactJS, NextJS, Angular, TypeScript, JavaScript, AMP, HTML5, CSS3, SCSS/SASS, Tailwind CSS, Bootstrap  
 - **Backend:** Node.js, MySQL, MongoDB, PostgreSQL (basic), RESTful APIs  
