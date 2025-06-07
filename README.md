@@ -36,7 +36,7 @@
 Opportunities in **Pune or Bangalore** with companies that prioritize **quality, innovation, and collaboration**.  
 
 🔗 **Let’s Connect!**  
-- 📞 [Call me](tel:6354987569)  
+- 📞 Call me on +916354987569  
 - 📧 [bhavsarh455@gmail.com](mailto:bhavsarh455@gmail.com)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/harshbhavsar2001/)
 
