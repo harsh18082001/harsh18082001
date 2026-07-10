@@ -24,7 +24,7 @@
 B.E. Computer Science, Gujarat Technological University (2018–2022)
 
 ### 💡 Currently seeking
-Opportunities in **Pune** with product-driven engineering teams.
+Opportunities with product-driven engineering teams — **Pune** (preferred) | **Mumbai** (open)
 
 ### 🔗 Connect
 📧 [bhavsarh455@gmail.com](mailto:bhavsarh455@gmail.com) ⋄ 💼 [LinkedIn](https://www.linkedin.com/in/harshbhavsar2001/)
