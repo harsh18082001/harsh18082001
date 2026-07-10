@@ -1,18 +1,20 @@
 # 👋 Hi, I'm Harsh Bhavsar
 
-**Full Stack Software Engineer** (5+ years) specializing in **React.js / Next.js** (hooks, component architecture, SSR/SSG, Redux Toolkit/RTK Query) and equally strong on the backend with **Node.js, Express.js, NestJS**. Ship production apps on Vercel with Git-based CI/CD, Next Image caching, and Lighthouse 90+ scores. Use AI-assisted workflows (Claude Code, GitHub Copilot) for faster, higher-quality delivery.
+**Full Stack Software Engineer** (5+ years) building scalable web applications with **React.js, Next.js, Node.js, Express.js, NestJS, and TypeScript**. Experienced across REST APIs, microservices, SQL/NoSQL databases, third-party integrations, performance optimization, and AI-assisted development for enterprise applications.
 
 ### 🔧 Stack
-- **Frontend:** React.js, Next.js (App & Pages Router), Redux Toolkit, RTK Query, Context API, TypeScript, Tailwind CSS, SCSS, React Testing Library
-- **Backend:** Node.js, Express.js, NestJS, REST APIs, MongoDB, MySQL, PostgreSQL, Redis
-- **Architecture:** Microservices, JWT/OAuth, Caching, CDN (Cloudflare, Cloudinary), AWS EC2
-- **DevOps:** Vercel CI/CD, GitHub Actions, Linux
-- **AI Tooling:** Claude Code (MCP), GitHub Copilot, OpenAI Codex
+- **Languages:** JavaScript, TypeScript
+- **Frontend:** React.js, Next.js, Angular, Redux Toolkit, RTK Query, HTML5, CSS3, SCSS, Tailwind CSS, React Testing Library
+- **Backend:** Node.js, Express.js, NestJS, REST APIs, MongoDB, MySQL, PostgreSQL, Redis, Jest, Integration Testing
+- **Architecture:** Microservices, API Design, JWT/OAuth, Authorization, Caching, CDN, AWS EC2, Linux, GitHub Actions, CI/CD, Razorpay Integration
+- **Tools:** Git, GitHub, Jira, Postman, Grafana, Google Analytics, Cloudinary, Cloudflare
+- **CS Fundamentals:** Data Structures & Algorithms, OOP, Design Patterns
+- **AI:** GitHub Copilot, Claude Code (MCP), OpenAI Codex
 
 ### 🚀 Experience
-- **Concentrix** — Software Engineer II (Full Stack), Jul 2025–Present — enterprise full-stack apps (React/Next.js/TypeScript/NestJS), OAuth-secured microservices, CDN/caching performance work
-- **Zuru Tech** — Software Developer II (MERN), Oct 2024–Jun 2025 — analytics dashboards, 40% performance improvement via code splitting & rendering optimization
-- **Saeculum Solutions** — Senior Software Engineer (MERN), May 2022–Jul 2024 — healthcare, e-commerce, publishing platforms; SEO-optimized CMS
+- **Concentrix** — Software Engineer II (Full Stack), Jul 2025–Present — enterprise full-stack apps (React/Next.js/Node.js/NestJS), REST APIs and backend services in a microservices architecture with OAuth, Webhooks, and third-party SDK integrations
+- **Zuru Tech** — Software Developer II (MERN), Oct 2024–Jun 2025 — internal product apps: analytics dashboards, real-time visualizations, reporting tools; 40% performance improvement via code splitting & rendering optimization
+- **Saeculum Solutions** — Senior Software Engineer (MERN), May 2022–Jul 2024 — healthcare, e-commerce, publishing, marketing domains; SEO-optimized CMS, reusable REST APIs
 - **Web Mavens LLP** — Software Engineer, Aug 2021–Apr 2022
 
 ### 🏗️ Selected Projects
