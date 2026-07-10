@@ -18,7 +18,7 @@
 - **Web Mavens LLP** — Software Engineer, Aug 2021–Apr 2022
 
 ### 🏗️ Selected Projects
-- **DocIQ — AI-Powered PDF Intelligence Platform** — React 19, Vite, Tailwind CSS v4, Shadcn UI, Redux Toolkit/RTK Query, Node.js, Express 5, Prisma ORM (SQLite), Hugging Face Inference API — Upload PDFs and chat with them using RAG (Retrieval-Augmented Generation). Features real-time streaming AI chat, one-click summaries/key points/insights, integrated PDF viewer with maximize mode, and a premium glassmorphic UI with full dark mode support. Built with [Google Antigravity](https://blog.google/technology/google-deepmind/antigravity-ai-coding/) 🤖 [View Project →](https://github.com/harsh18082001/ai-pdf-intelligence)
+- **DocIQ — AI-Powered PDF Intelligence Platform** — React 19, Vite, Tailwind CSS v4, Shadcn UI, Redux Toolkit/RTK Query, Node.js, Express 5, Prisma ORM (SQLite), Hugging Face Inference API — Upload PDFs and chat with them using RAG (Retrieval-Augmented Generation). Features real-time streaming AI chat, one-click summaries/key points/insights, integrated PDF viewer with maximize mode, and a premium glassmorphic UI with full dark mode support. Built with [Google Antigravity](https://antigravity.google) 🤖 [View Project →](https://github.com/harsh18082001/ai-pdf-intelligence)
 - **Unified Productivity Platform for BPO Operations** — React.js, Next.js, NestJS microservices, WebRTC, OAuth, AI call summarization & live translation, low-latency at enterprise scale
 - **TikTok Analytics Platform** — React.js, Express.js, MySQL — virtualized, infinite-scroll dashboards over billions of records
 
