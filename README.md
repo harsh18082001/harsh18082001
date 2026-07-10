@@ -1,46 +1,30 @@
-# 👋 Hi, I’m Harsh Bhavsar
+# 👋 Hi, I'm Harsh Bhavsar
 
-🌟 **Full-Stack Web Developer** with **4+ years of experience** crafting scalable, high-performance web applications using **ReactJS, NextJS, Node.js, and TypeScript**.
+**Full Stack Software Engineer** (5+ years) specializing in **React.js / Next.js** (hooks, component architecture, SSR/SSG, Redux Toolkit/RTK Query) and equally strong on the backend with **Node.js, Express.js, NestJS**. Ship production apps on Vercel with Git-based CI/CD, Next Image caching, and Lighthouse 90+ scores. Use AI-assisted workflows (Claude Code, GitHub Copilot) for faster, higher-quality delivery.
 
-💡 Passionate about:
-- Building intuitive user experiences and accessible designs
-- Creating robust, modular, and maintainable code
-- Performance optimization, clean code, and best practices
-- Learning new technologies and mentoring junior developers
+### 🔧 Stack
+- **Frontend:** React.js, Next.js (App & Pages Router), Redux Toolkit, RTK Query, Context API, TypeScript, Tailwind CSS, SCSS, React Testing Library
+- **Backend:** Node.js, Express.js, NestJS, REST APIs, MongoDB, MySQL, PostgreSQL, Redis
+- **Architecture:** Microservices, JWT/OAuth, Caching, CDN (Cloudflare, Cloudinary), AWS EC2
+- **DevOps:** Vercel CI/CD, GitHub Actions, Linux
+- **AI Tooling:** Claude Code (MCP), GitHub Copilot, OpenAI Codex
 
-🚀 **What I’ve Built:**
-- **Dynamic CMS for News Media Companies**  
-  Developed from scratch with **React 18, Node.js, MongoDB**, featuring drag-and-drop article builders and SEO-optimized content pipelines.
+### 🚀 Experience
+- **Concentrix** — Software Engineer II (Full Stack), Jul 2025–Present — enterprise full-stack apps (React/Next.js/TypeScript/NestJS), OAuth-secured microservices, CDN/caching performance work
+- **Zuru Tech** — Software Developer II (MERN), Oct 2024–Jun 2025 — analytics dashboards, 40% performance improvement via code splitting & rendering optimization
+- **Saeculum Solutions** — Senior Software Engineer (MERN), May 2022–Jul 2024 — healthcare, e-commerce, publishing platforms; SEO-optimized CMS
+- **Web Mavens LLP** — Software Engineer, Aug 2021–Apr 2022
 
-- **Gamification Lead Generation Platform**  
-  Used **Angular 15, ASP.NET Core, AWS** to drive customer engagement through interactive, data-driven experiences.
+### 🏗️ Selected Projects
+- **DocIQ — AI-Powered PDF Intelligence Platform** — React 19, Vite, Tailwind CSS v4, Shadcn UI, Redux Toolkit/RTK Query, Node.js, Express 5, Prisma ORM (SQLite), Hugging Face Inference API — Upload PDFs and chat with them using RAG (Retrieval-Augmented Generation). Features real-time streaming AI chat, one-click summaries/key points/insights, integrated PDF viewer with maximize mode, and a premium glassmorphic UI with full dark mode support. Built with [Google Antigravity](https://blog.google/technology/google-deepmind/antigravity-ai-coding/) 🤖 [View Project →](https://github.com/harsh18082001/ai-pdf-intelligence)
+- **Unified Productivity Platform for BPO Operations** — React.js, Next.js, NestJS microservices, WebRTC, OAuth, AI call summarization & live translation, low-latency at enterprise scale
+- **TikTok Analytics Platform** — React.js, Express.js, MySQL — virtualized, infinite-scroll dashboards over billions of records
 
-- **TikTok Analytics Clone**  
-  Scalable analytics platform handling **billions of data points** with infinite scrolling and category-based insights using **React, Node, MySQL**.
+### 🎓 Education
+B.E. Computer Science, Gujarat Technological University (2018–2022)
 
-- **Women’s Healthcare Solution**  
-  A secure telehealth platform with **Angular, Node, MongoDB**, prioritizing modular, accessible design.
+### 💡 Currently seeking
+Opportunities in **Pune** with product-driven engineering teams.
 
-- **Marketing Performance Panel**  
-  Real-time KPIs and visualizations built with **React, Node, MySQL, Ant Design** to boost marketing insights.
-
-- **And Many more in total 15-20 projects [6-7 enterprise level, 7-8 mid level]**
-
-🔧 **Tech Stack Highlights:**
-- **Frontend:** ReactJS, NextJS, Angular, TypeScript, JavaScript, AMP, HTML5, CSS3, SCSS/SASS, Tailwind CSS, Bootstrap  
-- **Backend:** Node.js, MySQL, MongoDB, PostgreSQL (basic), RESTful APIs  
-- **Design & UX:** Figma, Adobe XD, wireframing, high-fidelity prototyping  
-- **DevOps & Infra:** AWS EC2, Vercel, Linux, performance tuning, caching strategies  
-- **Practices:** Agile methodologies, Jira, GitHub, SDLC, team collaboration  
-- **Soft Skills:** Communication, mentoring, problem-solving  
-
-💡 **Currently Seeking:**  
-Opportunities in **Pune or Bangalore** with companies that prioritize **quality, innovation, and collaboration**.  
-
-🔗 **Let’s Connect!**  
-- 📧 [bhavsarh455@gmail.com](mailto:bhavsarh455@gmail.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/harshbhavsar2001/)
-
----
-
-💬 I’m always excited to collaborate on new challenges, performance optimization, or building something that makes a real impact. Let’s build something amazing together! 🚀
+### 🔗 Connect
+📧 [bhavsarh455@gmail.com](mailto:bhavsarh455@gmail.com) ⋄ 💼 [LinkedIn](https://www.linkedin.com/in/harshbhavsar2001/)
